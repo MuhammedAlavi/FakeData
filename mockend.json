@@ -1,0 +1,8 @@
+{
+	"post":{
+		"title": "string",
+		"views": "int",
+		"publicshed": "boolean",
+		"createdAt": "date",
+	}
+}
